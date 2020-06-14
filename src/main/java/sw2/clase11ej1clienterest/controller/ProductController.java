@@ -1,4 +1,4 @@
-package sw2.clase11ej1clienterest;
+package sw2.clase11ej1clienterest.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
